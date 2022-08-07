@@ -1,0 +1,67 @@
+{
+    "Detalle_Bolsa_Modal":[
+        
+    {
+        "Folio": "20160510-1595",
+        "Monto_Linea": 200000,
+        "Monto_Linea_Val": 499999,
+        "Moneda": "USD",
+        "Sgto_Especifico": "9183-PYME AUTOMOTRIZ DOLARES",
+        "Fec_Firma_Ctrt":"2016/04/29",
+        "Estatus_Folio":"A",
+        "Descripcion":"Folio Aprobado"
+      },
+      {
+        "Folio": "20160510-1580",
+        "Monto_Linea": 300000,
+        "Monto_Linea_Val": 499999,
+        "Moneda": "USD",
+        "Sgto_Especifico": "9183-PYME AUTOMOTRIZ DOLARES",
+        "Fec_Firma_Ctrt":"2016/04/29",
+        "Estatus_Folio":"A",
+        "Descripcion":"Folio Aprobado"
+      },
+      {
+        "Folio": "20160510-1570",
+        "Monto_Linea": 400000,
+        "Monto_Linea_Val": 499999,
+        "Moneda": "USD",
+        "Sgto_Especifico": "9183-PYME AUTOMOTRIZ DOLARES",
+        "Fec_Firma_Ctrt":"2016/04/29",
+        "Estatus_Folio":"A",
+        "Descripcion":"Folio Aprobado"
+      },
+      {
+        "Folio": "20160510-1575",
+        "Monto_Linea": 9800000,
+        "Monto_Linea_Val": 499999,
+        "Moneda": "USD",
+        "Sgto_Especifico": "9183-PYME AUTOMOTRIZ DOLARES",
+        "Fec_Firma_Ctrt":"2016/04/29",
+        "Estatus_Folio":"A",
+        "Descripcion":"Folio Aprobado"
+      },
+      {
+        "Folio": "20160510-1535",
+        "Monto_Linea": 50000,
+        "Monto_Linea_Val": 499999,
+        "Moneda": "MXP",
+        "Sgto_Especifico": "9183-PYME AUTOMOTRIZ DOLARES",
+        "Fec_Firma_Ctrt":"2016/04/29",
+        "Estatus_Folio":"A",
+        "Descripcion":"Folio Aprobado"
+      },
+      {
+        "Folio": "20160510-1515",
+        "Monto_Linea": 300000,
+        "Monto_Linea_Val": 499999,
+        "Moneda": "MXP",
+        "Sgto_Especifico": "9183-PYME AUTOMOTRIZ DOLARES",
+        "Fec_Firma_Ctrt":"2016/04/29",
+        "Estatus_Folio":"A",
+        "Descripcion":"Folio Aprobado"
+      }
+
+]
+    
+}
